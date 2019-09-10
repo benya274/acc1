@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.richTire.app" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.tkspdlpgd.app" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Rich Tire</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Toko Sepeda Lampung Gudang
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        VB Corp
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
