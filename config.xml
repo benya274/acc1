@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.tkspdlpgd.app" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Tk Spd Lp Gudang</name>
+<widget id="com.absenwss.app" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Absen Wasis</name>
     <description>
-        Toko Sepeda Lampung Gudang
+        Absensi Wasis
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         VB Corp
